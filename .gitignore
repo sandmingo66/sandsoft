@@ -27,7 +27,8 @@
     "t14": "",
     "t15": "fu7tc35DQxbO3KT2evwHYxAuwiGh4LvUuZXIB3444IEjtcbVGs55t5XJ",
     "t16": "Ca7D05lP438ISr0SX4q23CjyyRbYZ7PRjyww4nrirT/VPfDfcBnFRUQolYVnKpQ=XC3lmg61rbkG53M4QouH",
-    "t17": "dVteHo1two31Z7JUCk1C93da56307df7d4bfd08dedf258aa7af1x44R2X02ff9rK6H3DstS"
+    "t17": "",
+    "t18": "dVteHo1two31Z7JUCk1C93da56307df7d4bfd08dedf258aa7af1x44R2X02ff9rK6H3DstS"
 },
 "spc": {
     "s1": {
@@ -100,7 +101,8 @@
     "st14f": 1440,
     "st15f": 1440,
     "st16f": 0,
-    "st17f": 0
+    "st17f": 0,
+    "st18f": 1440
 },
 "plTv": [
 "All", 
